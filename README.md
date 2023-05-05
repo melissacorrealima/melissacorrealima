@@ -2,14 +2,14 @@
 
 <div>
   <a href="https://github.com/melissacorrealima">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=melissacorrealima&count_private=true&show_icons=true&theme=radical">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacorrealima&ranking_index=(byte_count^size_weight)*(repo_count^count_weigh)&size_weight=0.5&count_weight=0.5&langs_count=3&layout=compact&theme=radical">
+    <img aligng="left" alt="Mel-stats" height="180" src="https://github-readme-stats.vercel.app/api?username=melissacorrealima&count_private=true&show_icons=true&theme=radical">
+    <img alt="Mel-toplanguages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissacorrealima&size_weight=0.5&count_weight=0.5&count_private=true&layout=compact&langs_count=3&theme=radical">
     </div>
            
+
            
            
-           
-           
+               
            
            
 <div style="display: inline_block"><br>
