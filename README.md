@@ -2,7 +2,7 @@
 <div>
   <a href="https://github.com/melissacorrealima">
     <img align="left" alt="Mel-stats" height="180" src="https://github-readme-stats.vercel.app/api?username=melissacorrealima&count_private=true&show_icons=true&theme=radical">
-    <img align:"center" alt="Mel-streak" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=pr2tik1&theme=dark&hide_border=true">
+    <img align:"center" alt="Mel-streak" height="180" src="https://github-readme-streak-stats.herokuapp.com?user=melissacorrealima&theme=radical&hide_border=false">
     <img align="right" alt="Pic-astronaut" height="180" src="https://img.freepik.com/vetores-gratis/astronauta-bonitinho-trabalhando-no-laptop-cartoon-icone-ilustracao-vetorial-ciencia-tecnologia-icone-isolado_138676-4634.jpg?w=740&t=st=1683333803~exp=1683334403~hmac=552bef30f439a3c548fe40617ee8d29adf47c675ecad6f36eb6d6c8c4cffe676"> 
     </div>
     
