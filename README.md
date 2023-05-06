@@ -8,7 +8,7 @@
   ##
   
   <div>
-    <img align="right" alt="Pic-astronaut" height="163" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/astronauta-bonitinho-trabalhando-no-laptop-cartoon-icone-ilustracao-vetorial-ciencia-tecnologia-icone-isolado_138676-4634.jpg?w=740&t=st=1683333803~exp=1683334403~hmac=552bef30f439a3c548fe40617ee8d29adf47c675ecad6f36eb6d6c8c4cffe676" > 
+    <img align="left" alt="Pic-astronaut" height="163" style="border-radius:50px;" src="https://img.freepik.com/vetores-gratis/astronauta-bonitinho-trabalhando-no-laptop-cartoon-icone-ilustracao-vetorial-ciencia-tecnologia-icone-isolado_138676-4634.jpg?w=740&t=st=1683333803~exp=1683334403~hmac=552bef30f439a3c548fe40617ee8d29adf47c675ecad6f36eb6d6c8c4cffe676" > 
     </div>
     
   <div style="display: inline_block"><br>
@@ -17,3 +17,4 @@
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
 
+  ![Sneak animation](https://github.com/melissacorrealima/melissacorrealima/blob/output/github-contribution-grid-snake.svg)
