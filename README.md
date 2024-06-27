@@ -17,6 +17,6 @@
 <img align="center" alt="PyTorch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" > 
 <img align="center" alt="Numpy" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"> 
 <img align="center" alt="Scikit-Learn" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"> 
+<img align="center" alt="Keras" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" > 
 <img align="center" alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg"> 
-<img align="center" alt="C" height="40" > 
 </div>
