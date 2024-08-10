@@ -10,10 +10,3 @@
   <img src="https://streak-stats.demolab.com?user=melissacorrealima&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/melissacorrealima/melissacorrealima/output/snake.svg" alt="Snake animation" />
-
-###
