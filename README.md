@@ -13,6 +13,6 @@
 ###
  
 <div align="center">
-<img height="164" src="https://raw.githubusercontent.com/melissacorrealima/melissacorrealima/output/snake.svg" alt="Snake animation" />
+<img height="155" src="https://raw.githubusercontent.com/melissacorrealima/melissacorrealima/output/snake.svg" alt="Snake animation" />
 
 ###
