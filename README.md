@@ -5,9 +5,9 @@
   </a>
 </h1>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=melissacorrealima&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&custom_title=My%20Stats" height="165" alt="stats graph"  />
-</div>
+</div> -->
  
 ###
  
